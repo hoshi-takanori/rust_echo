@@ -1,0 +1,6 @@
+[package]
+name = "rust_echo"
+version = "0.1.0"
+authors = ["Hoshi Takanori <hoshi-takanori@users.noreply.github.com>"]
+
+[dependencies]
